@@ -12,4 +12,5 @@ end
 
 def move(board, input_value, char = "X") 
 board(input_value) = char
+board
 end
